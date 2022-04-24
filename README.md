@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Aldali</h1>
 <h3 align="center">A passionate, ambitious, curious Software Engineer</h3>
+<h3 align="center">Failed, disappointment and boring are not in my dictionary.</h3>
+<h4 align="center">Backend Developer (Laravel Framework)</h4>
+<h4 align="center">Queue Management System (QMS) and Digital Signage Developer</h4>
+<h4 align="center">Flutter and VueJS experience</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadaldali" /> </p>
 
@@ -12,6 +16,10 @@
 - 💬 Ask me about **Laravel, DB, Programming**
 
 - 📫 How to reach me **ahmadaldali88@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YIZ_J9nCRnOs2CY0zUp3KcGt-u-Ihhdv/view?usp=sharing](https://drive.google.com/file/d/1YIZ_J9nCRnOs2CY0zUp3KcGt-u-Ihhdv/view?usp=sharing)
+
+- ⚡ Fun fact **I don't like sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

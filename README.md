@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Aldali</h1>
-<h3 align="center">A passionate, ambitious, curious Software Engineer</h3>
-<h3 align="center">Failed, disappointment and boring are not in my dictionary.</h3>
-<h4 align="center">Backend Developer (Laravel Framework)</h4>
-<h4 align="center">Queue Management System (QMS) and Digital Signage Developer</h4>
-<h4 align="center">Flutter and VueJS experience</h4>
+<h3>A passionate, ambitious, curious Software Engineer</h3>
+<h3>Failed, disappointment and boring are not in my dictionary.</h3>
+<h4>Backend Developer (Laravel Framework)</h4>
+<h4>Queue Management System (QMS) and Digital Signage Developer</h4>
+<h4>Flutter and VueJS experience</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadaldali" /> </p>
 

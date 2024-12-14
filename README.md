@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Aldali</h1>
 <h4>A passionate, ambitious, curious Software Engineer.</h4>
-<h5>Backend Developer (Laravel Framework).</h5>
+<h5>Full Stack Developer</h5>
 <h5>Queue Management System (QMS) and Digital Signage Developer.</h5>
-<h5>Flutter and VueJS experience.</h5>
+<h5>Laravel, Svelte, Flutter and VueJS experience.</h5>
 <h6>Failed, disappointment and boring are not in my dictionary.</h6>
 
 
@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/aldali_ahmad" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_aldali?logo=twitter&style=for-the-badge" alt="ahmad_aldali" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently working with **Svelte**
 
-- 💬 Ask me about **Laravel, DB, Programming**
+- 💬 Ask me about **Web devlopment, DB, Programming**
 
 - 📫 How to reach me **ahmadaldali88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YIZ_J9nCRnOs2CY0zUp3KcGt-u-Ihhdv/view?usp=sharing](https://drive.google.com/file/d/1YIZ_J9nCRnOs2CY0zUp3KcGt-u-Ihhdv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YIZ_J9nCRnOs2CY0zUp3KcGt-u-Ihhdv/view?usp=sharing](https://drive.google.com/file/d/1vL4BnrDJgN9Inl2IhSwv3i2BCvda6eDJ/view?usp=sharing)
 
 - ⚡ Fun fact **I don't like sleeping**
 

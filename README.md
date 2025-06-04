@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **ahmadaldali88@gmail.com**
 
-- 📄 Know about my experiences [CV](https://dev-ahmad-aldali.me/CV.pdf)
-
 - ⚡ Fun fact **I don't like sleeping**
 
 <h3 align="left">Connect with me:</h3>

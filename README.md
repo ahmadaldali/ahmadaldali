@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Aldali</h1>
-<h4>A passionate, ambitious, curious Software Engineer.</h4>
-<h5>Full Stack Developer</h5>
-<h5>Queue Management System (QMS) and Digital Signage Developer.</h5>
-<h5>Laravel, Svelte, Flutter and VueJS experience.</h5>
+<h4>Results-driven and Product-minded Software Engineer with a passion for building tools that people actually use and love. My full-stack experience spans projects in finance, healthcare, education, and sports, where I’ve led the development of complex user management systems and dynamic product sites like AllMyFaves (TreeLink alternative). I thrive as a key contributor on mission-driven teams, bringing adaptability, initiative, and a strong problem-solving mindset. I proactively fix bugs, iterate fast, and constantly push myself to learn, currently diving into building AI agentic tools to stay ahead of the curve.
+</h4>
 <h6>Failed, disappointment and boring are not in my dictionary.</h6>
 
 
